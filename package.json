@@ -2,7 +2,7 @@
 	"name": "airborn-server",
 	"version": "0.0.1",
 	"dependencies": {
-		"express": "4.18.2",
+		"express": "4.19.2",
 		"pg-promise": "10.11.1",
 		"aws-sdk": "2.1.5",
 		"aws-sdk-promise": "0.0.2",
